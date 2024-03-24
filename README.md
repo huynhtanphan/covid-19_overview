@@ -4,7 +4,7 @@ The project focuses on analyzing COVID-19 death data to understand global and re
 
 Data Acquisition: COVID-19 death data retrieved from a SQL Server database ("PortfolioProject.CovidDeaths").
 
-Data Analysis:** SQL queries formulated to extract specific data for visualization (Global Overview, Death Counts, Infection Rates).
+Data Analysis: SQL queries formulated to extract specific data for visualization (Global Overview, Death Counts, Infection Rates).
 
 Data Visualization: Tableau used to create visualizations from the extracted data.
 
